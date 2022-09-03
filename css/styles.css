@@ -6,15 +6,29 @@ li {
 	color: green;
 }
 li {
-    list-style-type: square;
-  }
-  .special {
-    color: orange;
-    font-weight: bold;
-  }
-  li em {
-    color: rgb(70, 214, 125);
-  }
-  h1 + p {
-    font-size: 200%;
-  }
+	list-style-type: square;
+}
+.special {
+	color: orange;
+	font-weight: bold;
+}
+li em {
+	color: rgb(70, 214, 125);
+}
+h1 + p {
+	font-size: 200%;
+}
+
+p span {
+	color: red;
+}
+a {
+	font-weight: bold;
+}
+a:link {
+	color: rgb(122, 125, 170);
+}
+
+a:hover {
+	text-decoration: none;
+}
