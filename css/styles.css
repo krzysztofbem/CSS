@@ -13,16 +13,3 @@ li {
 li em {
 	color: rgb(70, 214, 125);
 }
-h1 + p {
-	font-size: 200%;
-}
-
-p span {
-	color: red;
-}
-
-body h1 + p .special {
-    color: yellow;
-    background-color: black;
-    padding: 5px;
-  }
