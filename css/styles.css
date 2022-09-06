@@ -13,3 +13,11 @@ li {
 li em {
 	color: rgb(70, 214, 125);
 }
+h1 + p {
+	font-size: 200%;
+}
+
+p span {
+	color: red;
+}
+
