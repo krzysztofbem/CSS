@@ -1,9 +1,5 @@
-h1 {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
-  }
-  
-  p {
-    color: red;
-  }
+/* Create your test CSS here */
+
+p {
+  color: red;
+}
