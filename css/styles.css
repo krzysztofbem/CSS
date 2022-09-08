@@ -28,7 +28,9 @@ ul {
 	color: #999999;
 	font-weight: bold;
 }
-
+a {
+	transition: 0.3s;
+}
 a:link,
 a:visited {
 	color: #fb6542;
@@ -36,6 +38,5 @@ a:visited {
 
 a:hover {
 	text-decoration: none;
-  color: green;
-
+	color: green;
 }
