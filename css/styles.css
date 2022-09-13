@@ -1,7 +1,6 @@
 body {
-	color: green;
+	color: tomato;
 }
-
 .my-class-1 a {
 	color: inherit;
 }
@@ -12,4 +11,15 @@ body {
 
 .my-class-3 a {
 	color: unset;
+}
+a {
+	color: blueviolet;
+}
+blockquote {
+	background-color: red;
+	border: 2px solid green;
+}
+
+.fix-this {
+	all: unset;
 }
