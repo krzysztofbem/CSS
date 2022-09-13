@@ -1,46 +1,15 @@
 body {
-	background-color: #fff;
-	color: #333;
-	font-family: Arial, Helvetica, sans-serif;
-	padding: 1em;
-	margin: 0;
+	color: green;
 }
 
-h1 {
-	color: hotpink;
-	font-size: 2em;
-	font-family: Georgia, 'Times New Roman', Times, serif;
-	border-bottom: 10px dotted purple;
+.my-class-1 a {
+	color: inherit;
 }
 
-h2 {
-	font-size: 1.5em;
-	font-style: italic;
+.my-class-2 a {
+	color: initial;
 }
 
-li {
-	margin-left: 10px;
-}
-li {
-	margin-left: 0;
-} /* This is a reset */
-@media screen {
-	li {
-		margin-left: 3px;
-	}
-}
-
-@media print {
-	li {
-		margin-left: 1px;
-	}
-}
-
-@layer namedLayer {
-	li {
-		margin-left: 5px;
-	}
-}
-.specific {
-	margin-left: 1em;
+.my-class-3 a {
+	color: unset;
 }
