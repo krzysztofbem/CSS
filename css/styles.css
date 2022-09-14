@@ -1,18 +1,21 @@
 span {
-    background-color: yellow;
+	background-color: yellow;
 }
 
 strong {
-    color: rebeccapurple;
+	color: rebeccapurple;
 }
 
 em {
-    color: rebeccapurple;
+	color: rebeccapurple;
 }
 h1 {
 	color: blue;
-  }
-  
-  ..special {
+}
+
+.special {
 	color: blue;
-  }
+}
+p::first-line {
+	color: red;
+}
