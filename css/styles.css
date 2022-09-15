@@ -44,3 +44,6 @@ article p:first-child::first-line {
 	font-size: 120%;
 	font-weight: bold;
 }
+.box::after {
+    content: "This should show before the other content."
+}  
