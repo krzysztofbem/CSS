@@ -59,3 +59,9 @@ article p:first-child::first-line {
 ul > li {
     border-top: 5px solid red;
 }  
+h1 + p {
+    font-weight: bold;
+    background-color: rgb(175, 72, 72);
+    color: #fff;
+    padding: .5em;
+}   
