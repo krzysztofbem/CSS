@@ -1,4 +1,4 @@
-
+/* 
 span {
 	background-color: yellow;
 }
@@ -29,4 +29,10 @@ article :last-child {
   .notebox.danger {
 	border-color: red;
 	font-weight: bold;
-  }
+  } */
+
+  .first {
+    font-size: 120%;
+    font-weight: bold;
+}   
+    
