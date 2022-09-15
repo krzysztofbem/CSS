@@ -31,8 +31,8 @@ article :last-child {
 	font-weight: bold;
   } */
 
-  .first {
+  article p:first-child {
     font-size: 120%;
     font-weight: bold;
-}   
+}    
     
