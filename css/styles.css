@@ -31,11 +31,6 @@ article :last-child {
 	font-weight: bold;
   } */
 
-a:link,
-a:visited {
-	color: rebeccapurple;
-	font-weight: bold;
-}
 
 a:hover {
 	color: hotpink;
