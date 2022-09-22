@@ -105,7 +105,7 @@ ul {
 	border-right-width: 20px;
 	border-bottom-color: hotpink;
   } */
-
+/* 
 .box {
 	border: 5px solid rebeccapurple;
 	background-color: lightgray;
@@ -128,4 +128,10 @@ ul {
 	margin-bottom: 40px;
 	margin-left: 2em;
 	padding: 1em;
-}
+} */
+
+.box span {
+	background-color: pink;
+	border: 5px solid black;
+	padding: 1em;
+  }
