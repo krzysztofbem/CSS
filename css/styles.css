@@ -149,10 +149,10 @@ ul {
 	background-color: rgba(255,255,180,.5);
   } */
 .test {
-	width: 800px;
-	height: 430px;
+	width: 400px;
+	height: 230px;
 	background-image: url(https://mdn.github.io/css-examples/learn/backgrounds-borders/balloons.jpg);
-	z-index: -100;
+	background-position: right bottom;
 }
 .bgc {
 	background-color: #fff;
