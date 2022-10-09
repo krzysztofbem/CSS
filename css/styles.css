@@ -137,7 +137,7 @@ ul {
 	padding: 1em;
 	margin: 20px auto;
 } */
-.box {
+/* .box {
 	background-color: #567895;
   }
   
@@ -147,5 +147,14 @@ ul {
   }
   span {
 	background-color: rgba(255,255,180,.5);
-  }
-	  
+  } */
+.test {
+	width: 800px;
+	height: 430px;
+	background-image: url(https://mdn.github.io/css-examples/learn/backgrounds-borders/balloons.jpg);
+	z-index: -100;
+}
+.bgc {
+	background-color: #fff;
+	z-index: 10;
+}
