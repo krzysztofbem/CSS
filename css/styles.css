@@ -149,11 +149,14 @@ ul {
 	background-color: rgba(255,255,180,.5);
   } */
 
-.a {
-	background-image: linear-gradient(105deg, rgba(0, 249, 255, 1) 39%, rgba(51, 56, 57, 1) 96%);
-}
-
-.b {
-	background-image: radial-gradient(circle, rgba(0, 249, 255, 1) 39%, rgba(51, 56, 57, 1) 96%);
-	background-size: 100px 50px;
-}
+  .box {
+	background-color: #567895;
+	border: 5px solid #0b385f;
+	border-bottom-style: dashed;
+	color: #fff;
+  }
+  
+  h2 {
+	border-top: 2px dotted rebeccapurple;
+	border-bottom: 1em double rgb(24, 163, 78);
+  }
